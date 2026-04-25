@@ -1,0 +1,581 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1777121996
+icon.svg::CompressedTexture2D::7219754642934965833::1774344080::1777122009::1::::<><>::
+lasting_notes.txt::TextFile::-1::1774344080::0::1::::<><>::
+::res://addons/::1777023147
+::res://addons/legacy_old_docs/::1777023147
+Fixing Procedural Object Placement.md::TextFile::-1::1774344080::0::1::::<><>::
+MATERIAL_SYSTEM_LIMITATIONS.md::TextFile::-1::1774344080::0::1::::<><>::
+NOTES.md::TextFile::-1::1774344080::0::1::::<><>::
+PREFAB_SYSTEM_NOTES.md::TextFile::-1::1774344080::0::1::::<><>::
+TECHNICAL_DECISION_VEGETATION_PHYSICS.md::TextFile::-1::1774344080::0::1::::<><>::
+TERRAIN_LOADING_PRIORITY.md::TextFile::-1::1774344080::0::1::::<><>::
+TODO_INTERIOR_CARVE.md::TextFile::-1::1774344080::0::1::::<><>::
+TODO_TERRAIN_ASYNC.md::TextFile::-1::1774344080::0::1::::<><>::
+walkthrough.md::TextFile::-1::1774344080::0::1::::<><>::
+ZOMBIE_SPAWN_NOTES.md::TextFile::-1::1774344080::0::1::::<><>::
+::res://addons/performance_monitor/::1777023147
+performance_panel.gd::GDScript::-1::1774344080::0::1::::<>Control<>::
+performance_panel.tscn::PackedScene::5103510523118628902::1774344080::0::1::::<><>::uid://cyg18s6ut6742::::res://addons/performance_monitor/performance_panel.gd
+perf_debugger_plugin.gd::GDScript::-1::1774344080::0::1::::<>EditorDebuggerPlugin<>::
+plugin.cfg::TextFile::-1::1774344080::0::1::::<><>::
+plugin.gd::GDScript::-1::1774344080::0::1::::<>EditorPlugin<>::
+::res://addons/project_images/::1777121609
+Screenshot (1474).png::CompressedTexture2D::7531856674673353879::1774344080::1777122020::1::::<><>::
+Screenshot (1486).png::CompressedTexture2D::1679564439763572444::1774344080::1777122020::1::::<><>::
+Screenshot (1487).png::CompressedTexture2D::4397069577066403667::1774344080::1777122021::1::::<><>::
+Screenshot (1495).png::CompressedTexture2D::7521485791454351694::1774344080::1777122019::1::::<><>::
+Screenshot (1496).png::CompressedTexture2D::6701293920255688562::1774344080::1777122018::1::::<><>::
+Screenshot (1541).png::CompressedTexture2D::4685284930636896344::1774344080::1777122018::1::::<><>::
+Screenshot (1544).png::CompressedTexture2D::8921688187415675519::1774344080::1777122018::1::::<><>::
+Screenshot (1571).png::CompressedTexture2D::4445476001329494299::1774344080::1777122018::1::::<><>::
+Screenshot (1610).png::CompressedTexture2D::2985717448771439979::1774344080::1777122018::1::::<><>::
+Screenshot (1613).png::CompressedTexture2D::6072486235363638689::1774344080::1777122018::1::::<><>::
+Screenshot (1753).png::CompressedTexture2D::5022563272216448352::1774344080::1777122015::1::::<><>::
+Screenshot (1755).png::CompressedTexture2D::8261333522617710917::1774344080::1777122016::1::::<><>::
+::res://addons/project_screen/::1777121603
+CC0_button.png::CompressedTexture2D::4866784296745147483::1774344080::1777122015::1::::<><>::
+CC0_button.svg::CompressedTexture2D::8068382559460340231::1774344080::1777122015::1::::<><>::
+screen.tscn::PackedScene::8851738087379298650::1774344080::0::1::::<><>::uid://da4kklukkog0p::::res://icon.svg<>uid://cblrhxvlkufkt::::res://addons/project_screen/CC0_button.png
+::res://addons/renderer_fallback/::1777023147
+compatibility_checker.gd::GDScript::-1::1774344080::0::1::::<>Control<>::
+compatibility_checker.tscn::PackedScene::5426641465692111632::1774344080::0::1::::<><>::uid://cx57wp1buhebv::::res://addons/renderer_fallback/compatibility_checker.gd
+plugin.cfg::TextFile::-1::1774344080::0::1::::<><>::
+plugin.gd::GDScript::-1::1774344080::0::1::::<>EditorPlugin<>::
+renderer_fallback.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+::res://addons/srcoder_simplecar/::1777023147
+car.tscn::PackedScene::66774852521532302::1774344080::0::1::::<><>::uid://d00a8fn18o6y3::::res://addons/srcoder_simplecar/assets/models/Textures/colormap.png<>uid://cuw7isymmyyku::::res://addons/srcoder_simplecar/assets/materials/metal_physics_material.phymat<>uid://cwh8pk8p0bp2x::::res://addons/srcoder_simplecar/assets/scripts/car.gd
+follow_camera.tscn::PackedScene::1213246198536136905::1774344080::0::1::::<><>::uid://dc1aywjex8kw2::::res://addons/srcoder_simplecar/assets/scripts/follow_camera.gd
+::res://addons/srcoder_simplecar/assets/::1777023147
+::res://addons/srcoder_simplecar/assets/materials/::1777023147
+metal_physics_material.phymat::PhysicsMaterial::6223992763913771976::1774344080::0::1::::<><>::
+::res://addons/srcoder_simplecar/assets/models/::1777023147
+sedan-sports.glb::PackedScene::479271844464360663::1774344080::1777122027::1::::<><>::uid://d00a8fn18o6y3::::res://addons/srcoder_simplecar/assets/models/Textures/colormap.png
+::res://addons/srcoder_simplecar/assets/models/Textures/::1777121608
+colormap.png::CompressedTexture2D::8965651801005683912::1774344080::1777122020::1::::<><>::
+::res://addons/srcoder_simplecar/assets/scripts/::1777023147
+car.gd::GDScript::-1::1774344080::0::1::::<>VehicleBody3D<>::
+follow_camera.gd::GDScript::-1::1774344080::0::1::::<>Node3D<>::
+::res://addons/tests/::1777023147
+complex_terrain_test_bot.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+FIRST_BOT_BUGFIX.md::TextFile::-1::1774344080::0::1::::<><>::
+hud_notification_test_bot.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+minimal_bot.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+mining_bot.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+quickload_fall_test_bot.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+quickload_test_bot.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+SECOND_BOT_BUGFIX.md::TextFile::-1::1774344080::0::1::::<><>::
+simple_movement_bot.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+simple_zombie_count_bot.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+terrain_persistence_test_bot.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+zombie_count_bot.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+zombie_persistence_test_bot.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+::res://addons/trash_scripts/::1777023147
+::res://game/::1777023147
+::res://game/entities/::1777023147
+entity_base.gd::GDScript::-1::1774344080::0::1::::EntityBase<>CharacterBody3D<>::
+entity_base.tscn::PackedScene::6642944596070270970::1774344080::0::1::::<><>::uid://x8715partdba::::res://game/entities/entity_base.gd
+entity_manager.gd::GDScript::-1::1774344080::0::1::::<>Node3D<>::
+entity_manager.tscn::PackedScene::8795037605427908480::1774344080::0::1::::<><>::uid://0v1ofdcigo4q::::res://game/entities/entity_manager.gd<>uid://c1v5ld7qj6rfe::::res://game/entities/entity_base.tscn
+zombie_base.gd::GDScript::-1::1774344080::0::1::::ZombieBase<>EntityBase<>::
+zombie_base.tscn::PackedScene::2264037286707331344::1774344080::0::1::::<><>::uid://bg3r2ledgpqpk::::res://game/entities/zombie_base.gd<>uid://bu2dogmupukq3::::res://models/entities/zombie/1/male_zombie.glb
+::res://game/sound/::1777121593
+ambient_audio_manager.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+classic-punch-impact-352711.mp3::AudioStreamMP3::6874568472106870210::1774344080::1777122005::1::::<><>::
+forest-birds-55305.mp3::AudioStreamMP3::1596241877241081601::1774344080::1777122005::1::::<><>::
+mag-reload-81594.mp3::AudioStreamMP3::1346296758733827928::1774344080::1777122005::1::::<><>::
+pistol-shot-233473.mp3::AudioStreamMP3::6401507693223591755::1774344080::1777122005::1::::<><>::
+st1-footstep-sfx-323053.mp3::AudioStreamMP3::4489520567042430362::1774344080::1777122005::1::::<><>::
+st2-footstep-sfx-323055.mp3::AudioStreamMP3::9150265636675729958::1774344080::1777122005::1::::<><>::
+st3-footstep-sfx-323056.mp3::AudioStreamMP3::3442249974315895093::1774344080::1777122005::1::::<><>::
+zombie-sound-2-357976.mp3::AudioStreamMP3::4588310039749699770::1774344080::1777122005::1::::<><>::
+::res://game/sound/containers/::1777023147
+::res://game/sound/containers/cardboard/::1777023147
+::res://game/sound/containers/cardboard/1/::1777121593
+object-dropped-on-plastic-bag-81895.mp3::AudioStreamMP3::2355159375962692626::1774344080::1777122005::1::::<><>::
+plastic-108360.mp3::AudioStreamMP3::6584045708791367547::1774344080::1777122005::1::::<><>::
+::res://game/sound/door/::1777121593
+door-close-79921.mp3::AudioStreamMP3::1623235798370735372::1774344080::1777122005::1::::<><>::
+opening-door-411632.mp3::AudioStreamMP3::3282583149809219413::1774344080::1777122005::1::::<><>::
+::res://game/sound/environment/::1777023147
+::res://game/sound/environment/grasslands/::1777121593
+calm-garden-ambience-29993.mp3::AudioStreamMP3::1169353811785961080::1774344080::1777122005::1::::<><>::
+::res://game/sound/player-hitting-grass-plant-or-rock/::1777121593
+hit-plant-03-266292.mp3::AudioStreamMP3::5324814885940978350::1774344080::1777122005::1::::<><>::
+hit-rock-03-266305.mp3::AudioStreamMP3::4136869781441432839::1774344080::1777122005::1::::<><>::
+leafpilehit-107714.mp3::AudioStreamMP3::3322126906827773945::1774344080::1777122005::1::::<><>::
+::res://game/sound/player-hitting-grass-plant-or-rock/outdated/::1777121593
+rustling-grass-1-101282.mp3::AudioStreamMP3::7533861478664145683::1774344080::1777122005::1::::<><>::
+rustling-grass-4-101281.mp3::AudioStreamMP3::3858715775101506569::1774344080::1777122005::1::::<><>::
+::res://game/sound/player-hitting-terrain/::1777121593
+ground-impact-352053.mp3::AudioStreamMP3::6444971932973887473::1774344080::1777122005::1::::<><>::
+::res://game/sound/player-hitting-terrain-breaks/::1777121593
+impact-109588.mp3::AudioStreamMP3::7079055046219646363::1774344080::1777122005::1::::<><>::
+::res://game/sound/player-hitting-tree-wood/::1777121593
+falling-tree-ai-generated-431321.mp3::AudioStreamMP3::4063526187609177298::1774344080::1777122005::1::::<><>::
+giant-axe-strike-hitting-solid-wood-3-450247.mp3::AudioStreamMP3::3004586142559642685::1774344080::1777122005::1::::<><>::
+::res://game/sound/player-hitting-wood-block/::1777121593
+wooden_crate_smash-1-387904.mp3::AudioStreamMP3::8139072026598306337::1774344080::1777122005::1::::<><>::
+::res://game/sound/player-hitting-wood-block/outdated/::1777121593
+wood-being-chopped-1-228496.mp3::AudioStreamMP3::1070865408526535027::1774344080::1777122005::1::::<><>::
+::res://game/sound/player-hitting-zombie/::1777121593
+blade-piercing-body-352462.mp3::AudioStreamMP3::4680169339210645944::1774344080::1777122005::1::::<><>::
+::res://game/sound/player-pickup-item/::1777121593
+item-equip-6904.mp3::AudioStreamMP3::1555331361189315696::1774344080::1777122005::1::::<><>::
+::res://game/sound/player-swims-enter-the-water/::1777121593
+water-splash-02-352021.mp3::AudioStreamMP3::8113282010420271477::1774344080::1777122005::1::::<><>::
+::res://game/sound/player-swims-underwater/::1777121593
+underwater-ambience-376890.mp3::AudioStreamMP3::3258541769821970510::1774344080::1777122005::1::::<><>::
+::res://game/sound/player-swims-water/::1777121593
+swimming-sounds-331502.mp3::AudioStreamMP3::8867052440552214353::1774344080::1777122005::1::::<><>::
+::res://game/sound/player-weapon-tool-swing/::1777121593
+item-swing-sfx-2-409076.mp3::AudioStreamMP3::6256982305044125879::1774344080::1777122005::1::::<><>::
+::res://game/sound/ui/::1777023148
+::res://game/sound/ui/inventory/::1777023148
+::res://game/sound/ui/inventory/1/::1777121593
+open-bag-96178.mp3::AudioStreamMP3::7807400980523957149::1774344080::1777122005::1::::<><>::
+::res://game/sound/vehicle/::1777023148
+::res://game/sound/vehicle/car/::1777023148
+::res://game/sound/vehicle/car/1/::1777121593
+car-engine-start-44357.mp3::AudioStreamMP3::2687411696263195029::1774344080::1777122005::1::::<><>::
+car-idle-84718.mp3::AudioStreamMP3::1676068453093798447::1774344080::1777122005::1::::<><>::
+::res://gdextension/::1777023148
+OPTIMIZATION_GUIDE.md::TextFile::-1::1774344080::0::1::::<><>::
+PERFORMANCE_ANALYSIS.md::TextFile::-1::1774344080::0::1::::<><>::
+::res://gdextension/bin/::1777121989
+high_performance.gdextension::GDExtension::-1::1774344080::0::1::::<><>::
+::res://gdextension/src/::1777023148
+::res://models/::1777023149
+::res://models/entities/::1777023148
+::res://models/entities/player/::1777023148
+node_3d_test_scene.tscn::PackedScene::8601153504051532587::1774344080::0::1::::<><>::uid://be1binfphvmu0::::res://models/entities/player/Universal Base Characters[Standard]/Base Characters/Godot - UE/Superhero_Male_FullBody.gltf<>uid://cul84upoj7eq7::::res://models/entities/player/Animation Library[Standard]/Godot/AnimationLibrary_Godot_Standard.glb
+::res://models/entities/player/Animation Library[Standard]/::1777121610
+License.txt::TextFile::-1::1774344080::0::1::::<><>::
+Preview.png::CompressedTexture2D::3146755804156261132::1774344080::1777122021::1::::<><>::
+Unity_Setup.png::CompressedTexture2D::951659873676147835::1774344080::1777122020::1::::<><>::
+UnrealEngine_Setup.png::CompressedTexture2D::9201502001077169072::1774344080::1777122020::1::::<><>::
+::res://models/entities/player/Animation Library[Standard]/Godot/::1777121611
+AnimationLibrary_Godot_Standard.glb::AnimationLibrary::6201382918514497632::1774344080::1777122022::1::::<><>::
+::res://models/entities/player/Universal Base Characters[Standard]/::1777121597
+License_Standard.txt::TextFile::-1::1774344080::0::1::::<><>::
+Preview.png::CompressedTexture2D::7101065792954940456::1774344080::1777122009::1::::<><>::
+::res://models/entities/player/Universal Base Characters[Standard]/Base Characters/::1777023148
+::res://models/entities/player/Universal Base Characters[Standard]/Base Characters/Godot - UE/::1777121608
+Superhero_Female_FullBody.gltf::PackedScene::7496534024643241660::1774344080::1777122023::1::::<><>::uid://bdrg2olywil6t::::res://models/entities/player/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Hair_2_BaseColor.png<>uid://07ot1irl8wb6::::res://models/entities/player/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Hair_2_Normal.png<>uid://st2ujpas6tfp::::res://models/entities/player/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Eye_Brown.png<>uid://h5y2vjqnudhq::::res://models/entities/player/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Superhero_Female_Dark_BaseColor.png<>uid://pikjohsiih3w::::res://models/entities/player/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Superhero_Female_Roughness.png<>uid://c4x77n5m6w8kq::::res://models/entities/player/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Superhero_Female_Normal.png
+Superhero_Male_FullBody.gltf::PackedScene::2720925574414090025::1774344080::1777122023::1::::<><>::uid://dxbpwq1krc3jw::::res://models/entities/player/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Hair_1_BaseColor.png<>uid://st2ujpas6tfp::::res://models/entities/player/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Eye_Brown.png<>uid://b444o0q2jq7pu::::res://models/entities/player/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Superhero_Male_Dark.png<>uid://dqc0ulaqu8mxx::::res://models/entities/player/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Superhero_Male_Roughness.png<>uid://dw222kgrcfsx3::::res://models/entities/player/Universal Base Characters[Standard]/Base Characters/Godot - UE/T_Superhero_Male_Normal.png
+T_Eye_Brown.png::CompressedTexture2D::1304297933402023261::1774344080::1777122019::1::::<><>::
+T_Eye_Normal.png::CompressedTexture2D::5840080486485607660::1774344080::1777122012::1::::<><>::
+T_Hair_1_BaseColor.png::CompressedTexture2D::8776620755881212824::1774344080::1777122013::1::::<><>::
+T_Hair_1_BaseColor_png.png::CompressedTexture2D::5235113372288172252::1774344080::1777122013::1::::<><>::
+T_Hair_1_Normal.png::CompressedTexture2D::1902349855688816140::1774344080::1777122014::1::::<><>::
+T_Hair_2_BaseColor.png::CompressedTexture2D::2632494908258173757::1774344080::1777122020::1::::<><>::
+T_Hair_2_BaseColor_png.png::CompressedTexture2D::5426744342468830483::1774344080::1777122012::1::::<><>::
+T_Hair_2_Normal.png::CompressedTexture2D::1821666525817609457::1774344080::1777122019::1::::<><>::
+T_Superhero_Female_Dark_BaseColor.png::CompressedTexture2D::554759779988569018::1774344080::1777122015::1::::<><>::
+T_Superhero_Female_Normal.png::CompressedTexture2D::6857799340141238664::1774344080::1777122015::1::::<><>::
+T_Superhero_Female_Roughness.png::CompressedTexture2D::1069971665645157418::1774344080::1777122015::1::::<><>::
+T_Superhero_Male_Dark.png::CompressedTexture2D::4483551237008743810::1774344080::1777122014::1::::<><>::
+T_Superhero_Male_Normal.png::CompressedTexture2D::8760842920993377242::1774344080::1777122014::1::::<><>::
+T_Superhero_Male_Roughness.png::CompressedTexture2D::8287966524005057181::1774344080::1777122014::1::::<><>::
+::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/::1777023148
+::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Origin at 0/::1777023148
+::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/::1777023148
+Eyebrows_Female.fbx::PackedScene::308116434983383931::1774344080::1777122023::1::::<><>::uid://cuegp5t32cuee::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_2_BaseColor.png<>uid://s3puggppn2e2::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_2_Normal.png
+Eyebrows_Regular.fbx::PackedScene::6637849598920366239::1774344080::1777122025::1::::<><>::uid://bgmjv6sdjo17::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_BaseColor.png<>uid://b2a1kauww4k6j::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_Normal.png
+Hair_Beard.fbx::PackedScene::1069816426654389275::1774344080::1777122032::1::::<><>::uid://bgmjv6sdjo17::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_BaseColor.png<>uid://b2a1kauww4k6j::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_Normal.png
+Hair_Buns.fbx::PackedScene::1391798394477343216::1774344080::1777122032::1::::<><>::uid://cuegp5t32cuee::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_2_BaseColor.png<>uid://s3puggppn2e2::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_2_Normal.png
+Hair_Buzzed.fbx::PackedScene::814998387681195718::1774344080::1777122032::1::::<><>::uid://bgmjv6sdjo17::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_BaseColor.png<>uid://b2a1kauww4k6j::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_Normal.png
+Hair_BuzzedFemale.fbx::PackedScene::7648597236598222558::1774344080::1777122033::1::::<><>::uid://bgmjv6sdjo17::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_BaseColor.png<>uid://b2a1kauww4k6j::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_Normal.png
+Hair_Long.fbx::PackedScene::1856098673801622049::1774344080::1777122033::1::::<><>::uid://cuegp5t32cuee::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_2_BaseColor.png<>uid://s3puggppn2e2::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_2_Normal.png
+Hair_SimpleParted.fbx::PackedScene::8442715434523746372::1774344080::1777122033::1::::<><>::uid://bgmjv6sdjo17::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_BaseColor.png<>uid://b2a1kauww4k6j::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_Normal.png
+::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unreal Engine)/::1777023148
+Eyebrows_Female.fbx::PackedScene::1346237418614390338::1774344080::1777122033::1::::<><>::uid://cuegp5t32cuee::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_2_BaseColor.png<>uid://s3puggppn2e2::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_2_Normal.png
+Eyebrows_Regular.fbx::PackedScene::914106371091012330::1774344080::1777122034::1::::<><>::uid://bgmjv6sdjo17::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_BaseColor.png<>uid://b2a1kauww4k6j::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_Normal.png
+Hair_Beard.fbx::PackedScene::3095268933098533562::1774344080::1777122034::1::::<><>::uid://bgmjv6sdjo17::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_BaseColor.png<>uid://b2a1kauww4k6j::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_Normal.png
+Hair_Buns.fbx::PackedScene::1628129598564294890::1774344080::1777122034::1::::<><>::uid://cuegp5t32cuee::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_2_BaseColor.png<>uid://s3puggppn2e2::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_2_Normal.png
+Hair_Buzzed.fbx::PackedScene::5120241210458360628::1774344080::1777122035::1::::<><>::uid://bgmjv6sdjo17::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_BaseColor.png<>uid://b2a1kauww4k6j::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_Normal.png
+Hair_BuzzedFemale.fbx::PackedScene::2969062862015295037::1774344080::1777122035::1::::<><>::uid://bgmjv6sdjo17::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_BaseColor.png<>uid://b2a1kauww4k6j::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_Normal.png
+Hair_Long.fbx::PackedScene::5235631944630344326::1774344080::1777122035::1::::<><>::uid://cuegp5t32cuee::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_2_BaseColor.png<>uid://s3puggppn2e2::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_2_Normal.png
+Hair_SimpleParted.fbx::PackedScene::1271453573964809899::1774344080::1777122035::1::::<><>::uid://bgmjv6sdjo17::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_BaseColor.png<>uid://b2a1kauww4k6j::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_Normal.png
+::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/::1777121609
+Eyebrows_Female.gltf::PackedScene::5291992481316864084::1774344080::1777122036::1::::<><>::uid://dvg1dyybxqjeh::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_2_BaseColor.png<>uid://d2he42qusalwb::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_2_Normal.png
+Eyebrows_Regular.gltf::PackedScene::208737360521899947::1774344080::1777122036::1::::<><>::uid://iaa1mmv8wwe2::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_1_BaseColor.png<>uid://dm6uhipafclsw::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_1_Normal.png
+Hair_Beard.gltf::PackedScene::4490533782823427912::1774344080::1777122036::1::::<><>::uid://iaa1mmv8wwe2::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_1_BaseColor.png<>uid://dm6uhipafclsw::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_1_Normal.png
+Hair_Buns.gltf::PackedScene::6026777787881076396::1774344080::1777122027::1::::<><>::uid://dvg1dyybxqjeh::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_2_BaseColor.png<>uid://d2he42qusalwb::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_2_Normal.png
+Hair_Buzzed.gltf::PackedScene::9117847460556481685::1774344080::1777122027::1::::<><>::uid://iaa1mmv8wwe2::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_1_BaseColor.png<>uid://dm6uhipafclsw::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_1_Normal.png
+Hair_BuzzedFemale.gltf::PackedScene::7782315430431152220::1774344080::1777122028::1::::<><>::uid://iaa1mmv8wwe2::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_1_BaseColor.png<>uid://dm6uhipafclsw::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_1_Normal.png
+Hair_Long.gltf::PackedScene::6127539189741368341::1774344080::1777122028::1::::<><>::uid://dvg1dyybxqjeh::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_2_BaseColor.png<>uid://d2he42qusalwb::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_2_Normal.png
+Hair_SimpleParted.gltf::PackedScene::5937017147862275158::1774344080::1777122029::1::::<><>::uid://iaa1mmv8wwe2::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_1_BaseColor.png<>uid://dm6uhipafclsw::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Origin at 0/glTF (Godot)/T_Hair_1_Normal.png
+T_Hair_1_BaseColor.png::CompressedTexture2D::561557829562774363::1774344080::1777122021::1::::<><>::
+T_Hair_1_Normal.png::CompressedTexture2D::8066751168889849414::1774344080::1777122021::1::::<><>::
+T_Hair_2_BaseColor.png::CompressedTexture2D::8647199330908504643::1774344080::1777122021::1::::<><>::
+T_Hair_2_Normal.png::CompressedTexture2D::9069107573359004345::1774344080::1777122021::1::::<><>::
+::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/::1777023148
+::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/::1777023148
+Eyebrows_Female.fbx::PackedScene::4017287254189595882::1774344080::1777122029::1::::<><>::uid://cuegp5t32cuee::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_2_BaseColor.png<>uid://s3puggppn2e2::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_2_Normal.png
+Eyebrows_Regular.fbx::PackedScene::8849917947278298903::1774344080::1777122029::1::::<><>::uid://bgmjv6sdjo17::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_BaseColor.png<>uid://b2a1kauww4k6j::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_Normal.png
+Hair_Beard.fbx::PackedScene::6235928921530929333::1774344080::1777122030::1::::<><>::uid://bgmjv6sdjo17::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_BaseColor.png<>uid://b2a1kauww4k6j::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_Normal.png
+Hair_Buns.fbx::PackedScene::2246896110186067551::1774344080::1777122030::1::::<><>::uid://cuegp5t32cuee::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_2_BaseColor.png<>uid://s3puggppn2e2::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_2_Normal.png
+Hair_Buzzed.fbx::PackedScene::283556270537497108::1774344080::1777122030::1::::<><>::uid://bgmjv6sdjo17::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_BaseColor.png<>uid://b2a1kauww4k6j::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_Normal.png
+Hair_BuzzedFemale.fbx::PackedScene::6132213179866176004::1774344080::1777122030::1::::<><>::uid://bgmjv6sdjo17::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_BaseColor.png<>uid://b2a1kauww4k6j::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_Normal.png
+Hair_Long.fbx::PackedScene::2669264836792648627::1774344080::1777122031::1::::<><>::uid://cuegp5t32cuee::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_2_BaseColor.png<>uid://s3puggppn2e2::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_2_Normal.png
+Hair_SimpleParted.fbx::PackedScene::3813755076966225380::1774344080::1777122031::1::::<><>::uid://bgmjv6sdjo17::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_BaseColor.png<>uid://b2a1kauww4k6j::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/textures/T_Hair_1_Normal.png
+::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/::1777121607
+Eyebrows_Female.gltf::PackedScene::2164736769367262022::1774344080::1777122031::1::::<><>::uid://7yfrv0gdn3v::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_2_BaseColor.png<>uid://oukc0egx5pkv::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_2_Normal.png
+Eyebrows_Regular.gltf::PackedScene::626342217790763699::1774344080::1777122031::1::::<><>::uid://brp2xjuhc55rs::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_BaseColor.png<>uid://dou7vnagph24w::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_Normal.png
+Hair_Beard.gltf::PackedScene::316572921243165745::1774344080::1777122031::1::::<><>::uid://brp2xjuhc55rs::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_BaseColor.png<>uid://dou7vnagph24w::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_Normal.png
+Hair_Buns.gltf::PackedScene::4938235457029940863::1774344080::1777122031::1::::<><>::uid://7yfrv0gdn3v::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_2_BaseColor.png<>uid://oukc0egx5pkv::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_2_Normal.png
+Hair_Buzzed.gltf::PackedScene::825850882685387204::1774344080::1777122031::1::::<><>::uid://brp2xjuhc55rs::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_BaseColor.png<>uid://dou7vnagph24w::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_Normal.png
+Hair_BuzzedFemale.gltf::PackedScene::8839876038491135210::1774344080::1777122031::1::::<><>::uid://brp2xjuhc55rs::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_BaseColor.png<>uid://dou7vnagph24w::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_Normal.png
+Hair_Long.gltf::PackedScene::4020186441315821005::1774344080::1777122031::1::::<><>::uid://7yfrv0gdn3v::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_2_BaseColor.png<>uid://oukc0egx5pkv::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_2_Normal.png
+Hair_SimpleParted.gltf::PackedScene::2149449573979087432::1774344080::1777122031::1::::<><>::uid://brp2xjuhc55rs::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_BaseColor.png<>uid://dou7vnagph24w::::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/glTF (Godot -Unreal)/T_Hair_1_Normal.png
+T_Hair_1_BaseColor.png::CompressedTexture2D::3612277627843230012::1774344080::1777122019::1::::<><>::
+T_Hair_1_Normal.png::CompressedTexture2D::8185174545629998532::1774344080::1777122019::1::::<><>::
+T_Hair_2_BaseColor.png::CompressedTexture2D::67527151407715161::1774344080::1777122018::1::::<><>::
+T_Hair_2_Normal.png::CompressedTexture2D::1024543427096639685::1774344080::1777122018::1::::<><>::
+::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Textures/::1777121609
+T_Hair_1_BaseColor.png::CompressedTexture2D::83320937922240068::1774344080::1777122020::1::::<><>::
+T_Hair_1_Normal.png::CompressedTexture2D::4283115993597171927::1774344080::1777122016::1::::<><>::
+T_Hair_2_BaseColor.png::CompressedTexture2D::6185268446388424156::1774344080::1777122020::1::::<><>::
+T_Hair_2_Normal.png::CompressedTexture2D::1322148558478897607::1774344080::1777122020::1::::<><>::
+::res://models/entities/player/Universal Base Characters[Standard]/Hairstyles/Textures/Normals Unity - Godot/::1777121597
+T_Hair_1_Normal.png::CompressedTexture2D::6768765446563107471::1774344080::1777122009::1::::<><>::
+T_Hair_2_Normal.png::CompressedTexture2D::8930436648037076775::1774344080::1777122008::1::::<><>::
+::res://models/entities/zombie/::1777023148
+::res://models/entities/zombie/1/::1777121596
+male_zombie.glb::PackedScene::3846143242513636212::1774344080::1777122030::1::::<><>::uid://dlh4x31evjnbn::::res://models/entities/zombie/1/male_zombie_0.png<>uid://luh3qt5nncw3::::res://models/entities/zombie/1/male_zombie_1.png
+male_zombie_0.png::CompressedTexture2D::7947593352455010299::1774344080::1777122008::1::::<><>::
+male_zombie_1.png::CompressedTexture2D::813840727384089416::1774344080::1777122008::1::::<><>::
+oldreferenceZombie.gd::GDScript::-1::1774344080::0::1::::<>CharacterBody3D<>::
+::res://models/grass/::1777023148
+::res://models/grass/0/::1777121595
+realistics_grass_06.glb::PackedScene::1576318651159356959::1774344080::1777122029::1::::<><>::uid://du6xf3q50q8ln::::res://models/grass/0/realistics_grass_06_2.png
+realistics_grass_06_0.png::CompressedTexture2D::4300096087526021847::1774344080::1777122008::1::::<><>::
+realistics_grass_06_1.png::CompressedTexture2D::2662008888738571780::1774344080::1777122008::1::::<><>::
+realistics_grass_06_2.png::CompressedTexture2D::8628441550786770263::1774344080::1777122008::1::::<><>::
+::res://models/grass/1/::1777121595
+grass.glb::PackedScene::5122773798697768976::1774344080::1777122029::1::::<><>::uid://653njy8lc4dk::::res://models/grass/1/grass_0.png
+grass_0.png::CompressedTexture2D::2239509287818660036::1774344080::1777122008::1::::<><>::
+::res://models/grass/2/::1777121595
+grass_lowpoly.glb::PackedScene::1949630670853587418::1774344080::1777122029::1::::<><>::uid://gs4l57j2rvdw::::res://models/grass/2/grass_lowpoly_0.png<>uid://dgpbfxbilbm4q::::res://models/grass/2/grass_lowpoly_1.png
+grass_lowpoly_0.png::CompressedTexture2D::460073923504389672::1774344080::1777122007::1::::<><>::
+grass_lowpoly_1.png::CompressedTexture2D::7611431635140780050::1774344080::1777122007::1::::<><>::
+::res://models/items/::1777121594
+psx_first_person_arms.glb::PackedScene::5674250036097032446::1774344080::1777122035::1::::<><>::uid://dw0sl14wq8r3h::::res://models/items/psx_first_person_arms_0.png
+psx_first_person_arms_0.png::CompressedTexture2D::8756140015998970379::1774344080::1777122006::1::::<><>::
+::res://models/items/player_axe/::1777023148
+::res://models/items/player_axe/1/::1777121594
+animated_fps_axe.glb::PackedScene::6126248191425942410::1774344080::1777122029::1::::<><>::uid://33hh7esblb7j::::res://models/items/player_axe/1/animated_fps_axe_0.png<>uid://thfgahfi816e::::res://models/items/player_axe/1/animated_fps_axe_1.png
+animated_fps_axe_0.png::CompressedTexture2D::2023529406231310837::1774344080::1777122006::1::::<><>::
+animated_fps_axe_1.png::CompressedTexture2D::1348352984181122290::1774344080::1777122006::1::::<><>::
+::res://models/items/player_pickaxe/::1777023148
+::res://models/items/player_pickaxe/1/::1777121593
+animated_fps_axe.glb::PackedScene::8386507500251967198::1774344080::1777122028::1::::<><>::uid://bwsrt18whw80q::::res://models/items/player_pickaxe/1/animated_fps_axe_0.png<>uid://cmn7d0nbcws1p::::res://models/items/player_pickaxe/1/animated_fps_axe_1.png
+animated_fps_axe_0.png::CompressedTexture2D::3968801579859599238::1774344080::1777122006::1::::<><>::
+animated_fps_axe_1.png::CompressedTexture2D::5643894036210814843::1774344080::1777122006::1::::<><>::
+sketchfab_scene.tscn::PackedScene::7343991531043408328::1774344080::0::1::::<><>::uid://drqqs2s0kk1da::::res://models/items/player_pickaxe/1/animated_fps_axe.glb<>uid://3sp2fvyrqds8::::res://models/items/PSX_Tools_GLTF/Pickaxe.glb<>uid://cm3qkg0vrsarj::::res://models/items/PSX_Tools_GLTF/Texture/Pickaxe_DefaultMaterial_BaseColor.png
+violent-sword-slice-393839.mp3::AudioStreamMP3::3751439289067266119::1774344080::1777122005::1::::<><>::
+::res://models/items/player_shovel/::1777023148
+::res://models/items/player_shovel/1/::1777121593
+animated_fps_axe.glb::PackedScene::2119299656334705029::1774344080::1777122027::1::::<><>::uid://di2ct2ar7gb0d::::res://models/items/player_shovel/1/animated_fps_axe_0.png<>uid://dv7w74d6a82ve::::res://models/items/player_shovel/1/animated_fps_axe_1.png
+animated_fps_axe_0.png::CompressedTexture2D::7776667782558758825::1774344080::1777122006::1::::<><>::
+animated_fps_axe_1.png::CompressedTexture2D::8700682304075109474::1774344080::1777122006::1::::<><>::
+sketchfab_scene.tscn::PackedScene::5389648587447397977::1774344080::0::1::::<><>::uid://5gus5nqkl30l::::res://models/items/player_shovel/1/animated_fps_axe.glb<>uid://blvru1vvtgvri::::res://models/items/PSX_Tools_GLTF/Shovel.glb<>uid://3sp2fvyrqds8::::res://models/items/PSX_Tools_GLTF/Pickaxe.glb<>uid://cj6miytyqxr7b::::res://models/items/PSX_Tools_GLTF/Texture/Shovel_DefaultMaterial_BaseColor.png<>uid://cm3qkg0vrsarj::::res://models/items/PSX_Tools_GLTF/Texture/Pickaxe_DefaultMaterial_BaseColor.png
+violent-sword-slice-393839.mp3::AudioStreamMP3::6920062832363103086::1774344080::1777122005::1::::<><>::
+::res://models/items/PSX_Tools_GLTF/::1777121594
+Axe.glb::PackedScene::4618129893333974290::1774344080::1777122036::1::::<><>::
+Hammer.glb::PackedScene::8880845629291900185::1774344080::1777122036::1::::<><>::uid://b1ry1txcack8e::::res://models/items/PSX_Tools_GLTF/Hammer_Untitled.png
+Hammer_Untitled.png::CompressedTexture2D::4247929712133998110::1774344080::1777122006::1::::<><>::
+Pickaxe.glb::PackedScene::2003405688936356193::1774344080::1777122036::1::::<><>::
+Saw.glb::PackedScene::7575253487438888370::1774344080::1777122036::1::::<><>::
+Shovel.glb::PackedScene::3202919200329631838::1774344080::1777122036::1::::<><>::
+Wrench.glb::PackedScene::7927085656056129643::1774344080::1777122036::1::::<><>::
+::res://models/items/PSX_Tools_GLTF/Texture/::1777121594
+Axe_Material_BaseColor.png::CompressedTexture2D::7859158353228423191::1774344080::1777122006::1::::<><>::
+Hammer_Material_BaseColor.png::CompressedTexture2D::4444493685892384268::1774344080::1777122006::1::::<><>::
+Pickaxe_DefaultMaterial_BaseColor.png::CompressedTexture2D::5673899752717357771::1774344080::1777122005::1::::<><>::
+Saw_DefaultMaterial_BaseColor.png::CompressedTexture2D::3510048198366722489::1774344080::1777122006::1::::<><>::
+Shovel_DefaultMaterial_BaseColor.png::CompressedTexture2D::5469280851793227005::1774344080::1777122006::1::::<><>::
+Wrench_DefaultMaterial_BaseColor.png::CompressedTexture2D::2808625870338370059::1774344080::1777122006::1::::<><>::
+::res://models/objects/::1777023149
+::res://models/objects/cardboard/::1777023149
+::res://models/objects/cardboard/1/::1777121594
+cc0_free_cardboard_box.glb::PackedScene::5750187891788720180::1774344080::1777122035::1::::<><>::uid://c21pcbrqm8axs::::res://models/objects/cardboard/1/cc0_free_cardboard_box_0.png<>uid://5oh7cyjpnu13::::res://models/objects/cardboard/1/cc0_free_cardboard_box_1.png
+cc0_free_cardboard_box.tscn::PackedScene::6300717989097252519::1774344080::0::1::::<><>::uid://cn6o0wfqp4mky::::res://models/objects/cardboard/1/cc0_free_cardboard_box.glb<>uid://go63djbgtrcl::::res://modules/world_player_v2/features/data_containers/container_interactable.gd
+cc0_free_cardboard_box_0.png::CompressedTexture2D::6722528373227263272::1774344080::1777122006::1::::<><>::
+cc0_free_cardboard_box_1.png::CompressedTexture2D::2135048904603635416::1774344080::1777122006::1::::<><>::
+::res://models/objects/crate/::1777023149
+::res://models/objects/crate/1/::1777121594
+simple_long_crate.glb::PackedScene::8640544397014506621::1774344080::1777122035::1::::<><>::uid://ciibhx7a3twpo::::res://models/objects/crate/1/simple_long_crate_0.png<>uid://d1wkfouf4qoi1::::res://models/objects/crate/1/simple_long_crate_1.png<>uid://dw0p6uhpjc7wi::::res://models/objects/crate/1/simple_long_crate_2.png
+simple_long_crate.tscn::PackedScene::8425077006649918593::1774344080::0::1::::<><>::uid://dvdsreoeekta8::::res://models/objects/crate/1/simple_long_crate.glb<>uid://go63djbgtrcl::::res://modules/world_player_v2/features/data_containers/container_interactable.gd
+simple_long_crate_0.png::CompressedTexture2D::5350941613582024892::1774344080::1777122006::1::::<><>::
+simple_long_crate_1.png::CompressedTexture2D::9030205161644215890::1774344080::1777122006::1::::<><>::
+simple_long_crate_2.png::CompressedTexture2D::8755993231444367284::1774344080::1777122006::1::::<><>::
+::res://models/objects/interactive_door/::1777121598
+DOOR_SETUP_TUTORIAL.md::TextFile::-1::1774344080::0::1::::<><>::
+hello_neighbor_reality_door_download.glb::PackedScene::2981314583121217266::1774344080::1777122034::1::::<><>::uid://cob2in1fw3u34::::res://models/objects/interactive_door/hello_neighbor_reality_door_download_0.png<>uid://d2w3ps0w66kq7::::res://models/objects/interactive_door/hello_neighbor_reality_door_download_1.png<>uid://v1buccx5mskv::::res://models/objects/interactive_door/hello_neighbor_reality_door_download_2.png<>uid://n7xmeexk2gjv::::res://models/objects/interactive_door/hello_neighbor_reality_door_download_3.png<>uid://s0aiynadad6::::res://models/objects/interactive_door/hello_neighbor_reality_door_download_4.png<>uid://ct3bcmvcds7yg::::res://models/objects/interactive_door/hello_neighbor_reality_door_download_5.png<>uid://dpa7ncxnumbge::::res://models/objects/interactive_door/hello_neighbor_reality_door_download_6.png<>uid://4xw25dxamvko::::res://models/objects/interactive_door/hello_neighbor_reality_door_download_7.png<>uid://c8ud61j3qmhxd::::res://models/objects/interactive_door/hello_neighbor_reality_door_download_8.png
+hello_neighbor_reality_door_download_0.png::CompressedTexture2D::5759203924454816773::1774344080::1777122010::1::::<><>::
+hello_neighbor_reality_door_download_1.png::CompressedTexture2D::9101504987684176336::1774344080::1777122010::1::::<><>::
+hello_neighbor_reality_door_download_2.png::CompressedTexture2D::1527736080097005393::1774344080::1777122010::1::::<><>::
+hello_neighbor_reality_door_download_3.png::CompressedTexture2D::979933193116886071::1774344080::1777122010::1::::<><>::
+hello_neighbor_reality_door_download_4.png::CompressedTexture2D::38677182245123261::1774344080::1777122010::1::::<><>::
+hello_neighbor_reality_door_download_5.png::CompressedTexture2D::6164296925019786998::1774344080::1777122010::1::::<><>::
+hello_neighbor_reality_door_download_6.png::CompressedTexture2D::8214061005934141524::1774344080::1777122010::1::::<><>::
+hello_neighbor_reality_door_download_7.png::CompressedTexture2D::2084342725503036982::1774344080::1777122010::1::::<><>::
+hello_neighbor_reality_door_download_8.png::CompressedTexture2D::7130599653916214733::1774344080::1777122010::1::::<><>::
+interactive_door.gd::GDScript::-1::1774344080::0::1::::InteractiveDoor<>Node3D<>::
+interactive_door.tscn::PackedScene::1736311811315398253::1774344080::0::1::::<><>::uid://biqf2y3w81huo::::res://models/objects/interactive_door/hello_neighbor_reality_door_download.glb<>uid://c73mi36ajpgu0::::res://models/objects/interactive_door/interactive_door.gd
+::res://models/objects/table/::1777023149
+::res://models/objects/table/1/::1777121598
+psx_wooden_table.glb::PackedScene::4271022869621065643::1774344080::1777122033::1::::<><>::uid://b0bun5n7est4x::::res://models/objects/table/1/psx_wooden_table_0.png
+psx_wooden_table.tscn::PackedScene::5452688475813699965::1774344080::0::1::::<><>::uid://b136ef17311m2::::res://models/objects/table/1/psx_wooden_table.glb
+psx_wooden_table_0.png::CompressedTexture2D::4144445304817034445::1774344080::1777122010::1::::<><>::
+::res://models/objects/window/::1777023149
+::res://models/objects/window/1/::1777121599
+window.glb::PackedScene::8375147177304863543::1774344080::1777122033::1::::<><>::uid://c18i7eswmsvmo::::res://models/objects/window/1/window_9.jpg<>uid://dfn2s4gxlxotn::::res://models/objects/window/1/window_10.png<>uid://dvlalsohy7gky::::res://models/objects/window/1/window_11.png<>uid://dwf8cqsp4d6mx::::res://models/objects/window/1/window_6.png<>uid://btyyg6wqktkvo::::res://models/objects/window/1/window_7.png<>uid://jq7lqtn7b25c::::res://models/objects/window/1/window_8.png<>uid://bpxeykhw5lwmv::::res://models/objects/window/1/window_3.jpg<>uid://db4331pj7f2qr::::res://models/objects/window/1/window_4.png<>uid://bhck3wt70p60b::::res://models/objects/window/1/window_5.png<>uid://cy4846sojmnup::::res://models/objects/window/1/window_0.jpg<>uid://cjjq8v3qn7548::::res://models/objects/window/1/window_1.png<>uid://trfr5g6utoo3::::res://models/objects/window/1/window_2.png
+window.tscn::PackedScene::2243292470500785531::1774344080::0::1::::<><>::uid://drk8pkv75dikl::::res://models/objects/window/1/window.glb
+window_0.jpg::CompressedTexture2D::6519297675030192411::1777122032::1777122032::1::::<><>::
+window_1.png::CompressedTexture2D::5424151909988665795::1774344080::1777122011::1::::<><>::
+window_2.png::CompressedTexture2D::1369017980807166184::1774344080::1777122011::1::::<><>::
+window_3.jpg::CompressedTexture2D::3487020290719004989::1777122032::1777122032::1::::<><>::
+window_4.png::CompressedTexture2D::7291069316842946981::1774344080::1777122011::1::::<><>::
+window_5.png::CompressedTexture2D::2882529703177404311::1774344080::1777122011::1::::<><>::
+window_6.png::CompressedTexture2D::8715746601135938675::1774344080::1777122011::1::::<><>::
+window_7.png::CompressedTexture2D::3771023364453616312::1774344080::1777122011::1::::<><>::
+window_8.png::CompressedTexture2D::666693094667109586::1774344080::1777122011::1::::<><>::
+window_9.jpg::CompressedTexture2D::6666418888122332682::1777122032::1777122032::1::::<><>::
+window_10.png::CompressedTexture2D::7538716216673840787::1774344080::1777122011::1::::<><>::
+window_11.png::CompressedTexture2D::8655956533904544100::1774344080::1777122011::1::::<><>::
+::res://models/objects_placeholders/::1777023149
+crate.tscn::PackedScene::3929882119179046087::1774344080::0::1::::<><>::
+long_crate.tscn::PackedScene::6761764284767582658::1774344080::0::1::::<><>::
+table.tscn::PackedScene::7717057218671108467::1774344080::0::1::::<><>::
+::res://models/pistol/::1777121597
+heavy_pistol_animated.glb::PackedScene::1872869346878695358::1774344080::1777122025::1::::<><>::uid://dq0dqfph6yotg::::res://models/pistol/heavy_pistol_animated_0.png<>uid://fp5dyhsf8gxf::::res://models/pistol/heavy_pistol_animated_1.png<>uid://cp41yqjfok3n3::::res://models/pistol/heavy_pistol_animated_2.png<>uid://b8ctuid3ym8rp::::res://models/pistol/heavy_pistol_animated_3.png<>uid://cs1g5i5bcuv2q::::res://models/pistol/heavy_pistol_animated_4.png<>uid://cvn0j82cygvs5::::res://models/pistol/heavy_pistol_animated_5.png
+heavy_pistol_animated_0.png::CompressedTexture2D::8334104002969344916::1774344080::1777122009::1::::<><>::
+heavy_pistol_animated_1.png::CompressedTexture2D::383738023865625603::1774344080::1777122009::1::::<><>::
+heavy_pistol_animated_2.png::CompressedTexture2D::5887163332213220694::1774344080::1777122009::1::::<><>::
+heavy_pistol_animated_3.png::CompressedTexture2D::4707971044122938741::1774344080::1777122009::1::::<><>::
+heavy_pistol_animated_4.png::CompressedTexture2D::6090332716829937882::1774344080::1777122009::1::::<><>::
+heavy_pistol_animated_5.png::CompressedTexture2D::6275179766655442566::1774344080::1777122009::1::::<><>::
+heavy_pistol_physics.tscn::PackedScene::4585621953745255122::1774344080::0::1::::<><>::uid://optvuskqumr4::::res://models/pistol/heavy_pistol_without_hands.tscn<>uid://blkjn7mgagq47::::res://world_building_system/prop_physics_settler.gd
+heavy_pistol_without_hands.tscn::PackedScene::1014801680527934191::1774344080::0::1::::<><>::uid://b8ctuid3ym8rp::::res://models/pistol/heavy_pistol_animated_3.png<>uid://cs1g5i5bcuv2q::::res://models/pistol/heavy_pistol_animated_4.png<>uid://cvn0j82cygvs5::::res://models/pistol/heavy_pistol_animated_5.png
+::res://models/small_rock/::1777121596
+simple_rock_-_ps1_low_poly.glb::PackedScene::1154195851194457558::1774344080::1777122023::1::::<><>::uid://bdtgo1jdrxg8t::::res://models/small_rock/simple_rock_-_ps1_low_poly_0.jpg
+simple_rock_-_ps1_low_poly_0.jpg::CompressedTexture2D::2636601074675880821::1774344080::1777122039::1::::<><>::
+::res://models/tree/::1777023149
+::res://models/tree/0/::1777121598
+rigged_animated_cinematic_quality_tree_4.glb::PackedScene::3129744523078751789::1774344080::1777122027::1::::<><>::uid://e2evhvmiux1p::::res://models/tree/0/rigged_animated_cinematic_quality_tree_4_1.png<>uid://dc60ekwrg2hfm::::res://models/tree/0/rigged_animated_cinematic_quality_tree_4_2.png<>uid://b5bl3yg10xk2j::::res://models/tree/0/rigged_animated_cinematic_quality_tree_4_0.png
+rigged_animated_cinematic_quality_tree_4_0.png::CompressedTexture2D::4494869530782776399::1774344080::1777122010::1::::<><>::
+rigged_animated_cinematic_quality_tree_4_1.png::CompressedTexture2D::336774344215885247::1774344080::1777122010::1::::<><>::
+rigged_animated_cinematic_quality_tree_4_2.png::CompressedTexture2D::7365161076726690474::1774344080::1777122010::1::::<><>::
+::res://models/tree/1/::1777121597
+pine_tree_-_ps1_low_poly.glb::PackedScene::1441874100367995249::1774344080::1777122024::1::::<><>::uid://matox4o5ttbx::::res://models/tree/1/pine_tree_-_ps1_low_poly_0.png
+pine_tree_-_ps1_low_poly_0.png::CompressedTexture2D::843446001146956157::1774344080::1777122009::1::::<><>::
+::res://modules/::1777023149
+3d_world_generation_design.md::TextFile::-1::1774344080::0::1::::<><>::
+ARCHITECTURE_SUGGESTIONS.md::TextFile::-1::1774344080::0::1::::<><>::
+personal_note_on_block_submergence_problem_and_solutions.md::TextFile::-1::1774344080::0::1::::<><>::
+personal_note_on_porting_approach_to_old_experiments.md::TextFile::-1::1774344080::0::1::::<><>::
+TERRAIN_VISUAL_OPTIONS.md::TextFile::-1::1774344080::0::1::::<><>::
+::res://modules/debug_module/::1777023149
+collision_debugger.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+debug_manager.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+debug_preset.gd::GDScript::-1::1774344080::0::1::::DebugPreset<>Resource<>::
+performance_monitor.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+README.md::TextFile::-1::1774344080::0::1::::<><>::
+::res://modules/debug_module/presets/::1777023149
+default.tres::Resource/DebugPreset::6248337999021364718::1774344080::0::1::::<><>::uid://d3qmvfb1idfts::::res://modules/debug_module/debug_preset.gd
+terrain_inspection.tres::Resource/DebugPreset::7710392219927209100::1774344080::0::1::::<><>::uid://d3qmvfb1idfts::::res://modules/debug_module/debug_preset.gd
+try_to_log_performance.tres::Resource/DebugPreset::437559544792633008::1774344080::0::1::::<><>::uid://d3qmvfb1idfts::::res://modules/debug_module/debug_preset.gd
+vegetation_debug.tres::Resource/DebugPreset::308684026029525802::1774344080::0::1::::<><>::uid://d3qmvfb1idfts::::res://modules/debug_module/debug_preset.gd
+::res://modules/ui_main_menu/::1777023149
+to_be_continued.txt::TextFile::-1::1774344080::0::1::::<><>::
+::res://modules/world_generation/::1777023149
+material_registry.gd::GDScript::-1::1774344080::0::1::::MaterialRegistry<>Node<>::
+::res://modules/world_module/::1777023149
+world_test_world_player_v2.tscn::PackedScene::2722720112284752768::1774344080::0::1::::<><>::uid://b8dotn0iuivrd::::res://modules/world_player_v2/player.tscn<>uid://dusp0hitkv8d0::::res://models/entities/player/node_3d_test_scene.tscn<>uid://d2oq01pxsr6xj::::res://world_marching_cubes/chunk_manager.gd<>uid://bvdox6682bbj2::::res://world_building_system/building_manager.gd<>uid://c31576os7r5vc::::res://world_vegetation/vegetation_manager.gd<>uid://bnfmnblgu4i8q::::res://world_marching_cubes/roads/road_manager.gd<>uid://ds7smfcuouehv::::res://world_building_system/prefab_spawner.gd<>uid://dxkm8p7qhwvam::::res://game/entities/entity_manager.tscn<>uid://o0r1v40u60lk::::res://world_vehicles/vehicle_manager.gd<>uid://bts6arlg03cxx::::res://world_building_system/prefab_capture.gd<>uid://c00fsbscdns7l::::res://world_building_system/building_generator.gd<>uid://ctq5qui81d2k0::::res://world_building_system/debug_teleporter.gd<>uid://caenys1afe2uf::::res://modules/world_player_v2/features/ui_loading_screen/loading_screen.tscn<>uid://cnr7goje1oos5::::res://modules/world_player_v2/features/body_camera/underwater_screen.gdshader
+::res://modules/world_player_legacy/::1777023149
+camera_3d.gd::GDScript::-1::1774344080::0::1::::<>Camera3D<>::
+character_body_3d.gd::GDScript::-1::1774344080::0::1::::<>CharacterBody3D<>::
+player_interaction.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+world.tscn::PackedScene::6178686277698743483::1774344080::0::1::::<><>::uid://bxnlk20bjv2eg::::res://modules/world_player_legacy/character_body_3d.gd<>uid://bu6aawvhphoci::::res://modules/world_player_legacy/camera_3d.gd<>uid://dwgc52vq0hk52::::res://modules/world_player_legacy/player_interaction.gd<>uid://d2oq01pxsr6xj::::res://world_marching_cubes/chunk_manager.gd<>uid://bvdox6682bbj2::::res://world_building_system/building_manager.gd<>uid://bmf31iakbdeu4::::res://world_vegetation/vegetation_manager.gd<>uid://bnfmnblgu4i8q::::res://world_marching_cubes/roads/road_manager.gd<>uid://ds7smfcuouehv::::res://world_building_system/prefab_spawner.gd<>uid://dxkm8p7qhwvam::::res://game/entities/entity_manager.tscn<>uid://o0r1v40u60lk::::res://world_vehicles/vehicle_manager.gd<>uid://bts6arlg03cxx::::res://world_building_system/prefab_capture.gd<>uid://c00fsbscdns7l::::res://world_building_system/building_generator.gd<>uid://ctq5qui81d2k0::::res://world_building_system/debug_teleporter.gd
+::res://modules/world_player_tools/::1777023149
+placeholder.txt::TextFile::-1::1774344080::0::1::::<><>::
+::res://modules/world_player_v2/::1777023149
+personal_update_note.txt::TextFile::-1::1774344080::0::1::::<><>::
+player.gd::GDScript::-1::1774344080::0::1::::WorldPlayerV2<>CharacterBody3D<>::
+player.tscn::PackedScene::4709730346807484249::1774344080::0::1::::<><>::uid://xuh2opiptmhm::::res://modules/world_player_v2/player.gd<>uid://c8y54d5s4ct3h::::res://modules/world_player_v2/features/body_movement/player_movement.gd<>uid://b2srj3lepsdhr::::res://modules/world_player_v2/features/body_camera/player_camera.gd<>uid://cuskdtp03uds8::::res://modules/world_player_v2/features/data_inventory/hotbar.gd<>uid://bto1a6aotugyy::::res://modules/world_player_v2/features/ui_modes/mode_manager.gd<>uid://bg0nkbklyomn1::::res://modules/world_player_v2/features/data_inventory/item_use_router.gd<>uid://bc3vrfysrafn1::::res://modules/world_player_v2/features/tool_combat/combat_system.gd<>uid://cyi8hqxoxxf13::::res://modules/world_player_v2/features/tool_building/build_mode.gd<>uid://c44rpw7dt12pq::::res://modules/world_player_v2/features/ui_modes/mode_editor.gd<>uid://dqq53ig6w7wm4::::res://modules/world_player_v2/features/data_inventory/inventory.gd<>uid://cwvskb6au45e2::::res://modules/world_player_v2/features/tool_interaction/player_interaction.gd<>uid://jc5j38s1vbni::::res://modules/world_player_v2/features/tool_combat/player_combat.gd<>res://modules/world_player_v2/features/ui_hud/player_hud.tscn<>uid://x7daoavkwyr7::::res://modules/world_player_v2/features/tool_combat/weapons/first_person_arms.gd<>uid://cs5ph0nb42pji::::res://modules/world_player_v2/features/tool_combat/weapons/first_person_pistol.gd<>uid://ccr7ty807oero::::res://modules/world_player_v2/features/tool_combat/weapons/first_person_axe.gd<>uid://gd7lpgjr1uht::::res://modules/world_player_v2/features/tool_combat/weapons/first_person_pickaxe.gd<>uid://ktyjo5q31em4::::res://modules/world_player_v2/features/tool_combat/weapons/first_person_shovel.gd<>uid://twk217xf32bm::::res://modules/world_player_v2/features/tool_terrain/terrain_interaction.gd<>uid://btccyk8is8eo6::::res://modules/world_player_v2/features/tool_combat/weapons/first_person_terraformer.gd<>uid://bskmyabeyh05o::::res://modules/world_player_v2/features/body_movement/player_crouch.gd
+world_testV2.tscn::PackedScene::4666449316076510614::1774344080::0::1::::<><>::uid://b8dotn0iuivrd::::res://modules/world_player_v2/player.tscn<>uid://d2oq01pxsr6xj::::res://world_marching_cubes/chunk_manager.gd<>uid://bvdox6682bbj2::::res://world_building_system/building_manager.gd<>uid://bmf31iakbdeu4::::res://world_vegetation/vegetation_manager.gd<>uid://bnfmnblgu4i8q::::res://world_marching_cubes/roads/road_manager.gd<>uid://ds7smfcuouehv::::res://world_building_system/prefab_spawner.gd<>uid://dxkm8p7qhwvam::::res://game/entities/entity_manager.tscn<>uid://o0r1v40u60lk::::res://world_vehicles/vehicle_manager.gd<>uid://bts6arlg03cxx::::res://world_building_system/prefab_capture.gd<>uid://c00fsbscdns7l::::res://world_building_system/building_generator.gd<>uid://ctq5qui81d2k0::::res://world_building_system/debug_teleporter.gd<>res://modules/world_player_v2/features/ui_loading_screen/loading_screen.tscn<>uid://c0jrc1pld8jpq::::res://addons/tests/zombie_count_bot.gd
+::res://modules/world_player_v2/api/::1777023149
+building_api.gd::GDScript::-1::1774344080::0::1::::BuildingAPIV2<>Node<>::
+terrain_api.gd::GDScript::-1::1774344080::0::1::::TerrainAPIV2<>Node<>::
+::res://modules/world_player_v2/autoload/::1777023149
+player_signals.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+player_stats.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+::res://modules/world_player_v2/features/::1777023150
+::res://modules/world_player_v2/features/body_camera/::1777023149
+player_camera.gd::GDScript::-1::1774344080::0::1::::PlayerCameraFeature<>Node<>::
+signals.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+underwater_screen.gdshader::Shader::-1::1774344080::0::1::::<><>::
+::res://modules/world_player_v2/features/body_movement/::1777023149
+player_crouch.gd::GDScript::-1::1774344080::0::1::::PlayerCrouchFeature<>Node<>::
+player_movement.gd::GDScript::-1::1774344080::0::1::::PlayerMovementFeature<>Node<>::
+signals.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+::res://modules/world_player_v2/features/body_stats/::1777023149
+player_stats.gd::GDScript::-1::1774344080::0::1::::PlayerStatsFeature<>Node<>::
+signals.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+::res://modules/world_player_v2/features/data_containers/::1777023149
+container_interactable.gd::GDScript::-1::1774344080::0::1::::ContainerInteractable<>StaticBody3D<>::
+container_inventory.gd::GDScript::-1::1774344080::0::1::::ContainerInventory<>Node<>::
+signals.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+::res://modules/world_player_v2/features/data_containers/ui/::1777023149
+container_panel.gd::GDScript::-1::1774344080::0::1::::ContainerPanelV2<>PanelContainer<>::
+container_panel.tscn::PackedScene::2899448433590892727::1774344080::0::1::::<><>::uid://co4byn04m71dj::::res://modules/world_player_v2/features/data_containers/ui/container_panel.gd
+::res://modules/world_player_v2/features/data_inventory/::1777023149
+hotbar.gd::GDScript::-1::1774344080::0::1::::HotbarV2<>Node<>::
+inventory.gd::GDScript::-1::1774344080::0::1::::InventoryV2<>Node<>::
+item_definitions.gd::GDScript::-1::1774344080::0::1::::ItemDefinitionsV2<>RefCounted<>::
+item_use_router.gd::GDScript::-1::1774344080::0::1::::ItemUseRouterV2<>Node<>::
+signals.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+::res://modules/world_player_v2/features/data_inventory/ui_inventory/::1777023149
+inventory_panel.gd::GDScript::-1::1774344080::0::1::::InventoryPanelV2<>PanelContainer<>::
+inventory_panel.tscn::PackedScene::9019430758079218767::1774344080::0::1::::<><>::uid://dd2k5k02tkrrx::::res://modules/world_player_v2/features/data_inventory/ui_inventory/inventory_panel.gd
+inventory_slot.gd::GDScript::-1::1774344080::0::1::::InventorySlotV2<>PanelContainer<>::
+inventory_slot.tscn::PackedScene::9037500865743731382::1774344080::0::1::::<><>::uid://ciky5afhqini5::::res://modules/world_player_v2/features/data_inventory/ui_inventory/inventory_slot.gd
+::res://modules/world_player_v2/features/data_pickups/::1777023149
+pickup_item.gd::GDScript::-1::1774344080::0::1::::PickupItemV2<>RigidBody3D<>::
+pickup_item.tscn::PackedScene::1304183979856647831::1774344080::0::1::::<><>::uid://bv7d7w04c2fi8::::res://modules/world_player_v2/features/data_pickups/pickup_item.gd
+::res://modules/world_player_v2/features/tool_building/::1777023149
+build_mode.gd::GDScript::-1::1774344080::0::1::::ModeBuildV2<>Node<>::
+signals.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+::res://modules/world_player_v2/features/tool_combat/::1777023149
+combat_system.gd::GDScript::-1::1774344080::0::1::::CombatSystemFeature<>Node<>::
+durability_visual_debugger.gd::GDScript::-1::1774344080::0::1::::DurabilityVisualDebugger<>Node3D<>::
+player_combat.gd::GDScript::-1::1774344080::0::1::::PlayerCombatV2<>Node<>::
+signals.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+tool_config.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+::res://modules/world_player_v2/features/tool_combat/weapons/::1777023149
+first_person_arms.gd::GDScript::-1::1774344080::0::1::::FirstPersonArmsV2<>Node<>::
+first_person_axe.gd::GDScript::-1::1774344080::0::1::::FirstPersonAxeV2<>Node<>::
+first_person_pickaxe.gd::GDScript::-1::1774344080::0::1::::FirstPersonPickaxeV2<>Node<>::
+first_person_pistol.gd::GDScript::-1::1774344080::0::1::::FirstPersonPistolV2<>Node<>::
+first_person_shovel.gd::GDScript::-1::1774344080::0::1::::FirstPersonShovel<>Node<>::
+first_person_terraformer.gd::GDScript::-1::1774344080::0::1::::FirstPersonShovelV2<>Node<>::
+::res://modules/world_player_v2/features/tool_interaction/::1777023149
+player_interaction.gd::GDScript::-1::1774344080::0::1::::PlayerInteractionV2<>Node<>::
+radial_menu.gd::GDScript::-1::1774344080::0::1::::RadialMenu<>Control<>::
+signals.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+::res://modules/world_player_v2/features/tool_terrain/::1777023150
+signals.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+terrain_interaction.gd::GDScript::-1::1774344080::0::1::::TerrainInteractionFeature<>Node<>::
+::res://modules/world_player_v2/features/ui_hud/::1777023150
+hud_minimap.gd::GDScript::-1::1774344080::0::1::::HUDMinimap<>Control<>::
+player_hud.gd::GDScript::-1::1774344080::0::1::::PlayerHUDV2<>CanvasLayer<>::
+player_hud.tscn::PackedScene::442174054002443234::1774344080::0::1::::<><>::uid://dflhel6eekhjm::::res://modules/world_player_v2/features/ui_hud/player_hud.gd<>uid://d1rcybdixu8hn::::res://modules/world_player_v2/features/data_inventory/ui_inventory/inventory_panel.tscn<>uid://bhkrqy3764208::::res://modules/world_player_v2/features/data_containers/ui/container_panel.tscn
+signals.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+::res://modules/world_player_v2/features/ui_loading_screen/::1777023150
+loading_screen.gd::GDScript::-1::1774344080::0::1::::LoadingScreen<>CanvasLayer<>::
+loading_screen.tscn::PackedScene::4781932043954210953::1774344080::0::1::::<><>::uid://b718hmy6nfd8s::::res://modules/world_player_v2/features/ui_loading_screen/loading_screen.gd
+::res://modules/world_player_v2/features/ui_modes/::1777023150
+mode_editor.gd::GDScript::-1::1774344080::0::1::::ModeEditorV2<>Node<>::
+mode_manager.gd::GDScript::-1::1774344080::0::1::::ModeManagerV2<>Node<>::
+signals.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+::res://save_manager/::1777023150
+container_registry.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+README.md::TextFile::-1::1774344080::0::1::::<><>::
+save_manager_v2.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+::res://script_templates/::1777023150
+::res://script_templates/Camera3D/::1777023150
+::res://script_templates/CharacterBody3D/::1777023150
+wasd_movement.gd::GDScript::-1::1774344080::0::1::::<>CharacterBody3D<>::
+::res://world_building_system/::1777023150
+building_chunk.gd::GDScript::-1::1774344080::0::1::::BuildingChunk<>Node3D<>::
+building_generator.gd::GDScript::-1::1774344080::0::1::::<>Node3D<>::
+building_manager.gd::GDScript::-1::1774344080::0::1::::<>Node3D<>::
+building_mesher.gd::GDScript::-1::1774344080::0::1::::BuildingMesher<>Node<>::
+debug_teleporter.gd::GDScript::-1::1774344080::0::1::::DebugTeleporter<>Node<>::
+object_registry.gd::GDScript::-1::1774344080::0::1::::ObjectRegistry<>Node<>::
+prefab_capture.gd::GDScript::-1::1774344080::0::1::::PrefabCapture<>Node<>::
+prefab_spawner.gd::GDScript::-1::1774344080::0::1::::PrefabSpawner<>Node3D<>::
+prop_physics_settler.gd::GDScript::-1::1774344080::0::1::::<>RigidBody3D<>::
+::res://world_editor/::1777023150
+README.md::TextFile::-1::1774344080::0::1::::<><>::
+world_editor.gd::GDScript::-1::1774344080::0::1::::WorldEditorUI<>Control<>::
+world_editor.tscn::PackedScene::3744765639202890005::1774344080::0::1::::<><>::uid://823d20xci4ba::::res://world_editor/world_editor.gd
+world_map_generator.gd::GDScript::-1::1774344080::0::1::::WorldMapGenerator<>RefCounted<>::
+::res://world_greedy_meshing/::1777121599
+gpu_greedy_meshing_manager.gd::GDScript::-1::1774344080::0::1::::<>Node3D<>::
+greedy_meshing.glsl::RDShaderFile::3898560402464772181::1774344080::1777122005::1::::<><>::
+greedy_meshing_large_chunk_test_scene.tscn::PackedScene::865458200057865007::1774344080::0::1::::<><>::uid://bxnlk20bjv2eg::::res://modules/world_player_legacy/character_body_3d.gd<>uid://bu6aawvhphoci::::res://modules/world_player_legacy/camera_3d.gd<>uid://6ni8vcn4j6p::::res://world_greedy_meshing/greedy_meshing_large_test_runner.gd
+greedy_meshing_large_test_runner.gd::GDScript::-1::1774344080::0::1::::<>Node3D<>::
+greedy_meshing_test_runner.gd::GDScript::-1::1774344080::0::1::::<>Node3D<>::
+greedy_meshing_test_scene.tscn::PackedScene::7854483960144739675::1774344080::0::1::::<><>::uid://bxnlk20bjv2eg::::res://modules/world_player_legacy/character_body_3d.gd<>uid://bu6aawvhphoci::::res://modules/world_player_legacy/camera_3d.gd<>uid://63lls5qaifej::::res://world_greedy_meshing/greedy_meshing_test_runner.gd
+wood-block-texture-original.png::CompressedTexture2D::2006756143164864761::1774344080::1777122011::1::::<><>::
+wood-block-texture.png::CompressedTexture2D::5397497057752797233::1774344080::1777122010::1::::<><>::
+::res://world_marching_cubes/::1777121599
+asphalt-texture-original.png::CompressedTexture2D::6001698316565873594::1774344080::1777122011::1::::<><>::
+asphalt-texture.png::CompressedTexture2D::2387537861979294861::1774344080::1777122009::1::::<><>::
+chunk_manager.gd::GDScript::-1::1774344080::0::1::::<>Node3D<>::
+gen_biome_map.glsl::RDShaderFile::5861924230984819336::1774344080::1777122005::1::::<><>::
+gen_density.glsl::RDShaderFile::2582872014154260665::1774344080::1777122005::1::::<><>::
+gen_water_density.glsl::RDShaderFile::2474969420517399306::1774344080::1777122005::1::::<><>::
+green-grass-texture.jpg::CompressedTexture2D::4656065379624067268::1774344080::1777122009::1::::<><>::
+marching_cubes.glsl::RDShaderFile::6732220809889141029::1774344080::1777122005::1::::<><>::
+marching_cubes_test_scene.tscn::PackedScene::593001084474161485::1774344080::0::1::::<><>::uid://bxnlk20bjv2eg::::res://modules/world_player_legacy/character_body_3d.gd<>uid://bu6aawvhphoci::::res://modules/world_player_legacy/camera_3d.gd<>uid://d2oq01pxsr6xj::::res://world_marching_cubes/chunk_manager.gd
+modify_density.glsl::RDShaderFile::9135938213465415421::1774344080::1777122005::1::::<><>::
+rocky-texture.jpg::CompressedTexture2D::4606861616884803372::1774344080::1777122009::1::::<><>::
+sand-texture.jpg::CompressedTexture2D::2698773716464260358::1774344080::1777122009::1::::<><>::
+snow-texture.jpg::CompressedTexture2D::4938299558327291307::1774344080::1777122009::1::::<><>::
+stone_material.png::CompressedTexture2D::653303931146255126::1774344080::1777122009::1::::<><>::
+terrain.gdshader::Shader::-1::1774344080::0::1::::<><>::
+TERRAIN_STANDARDS.md::TextFile::-1::1774344080::0::1::::<><>::
+water.gdshader::Shader::-1::1774344080::0::1::::<><>::
+water_texture.png::CompressedTexture2D::8490259611887957839::1774344080::1777122011::1::::<><>::
+::res://world_marching_cubes/roads/::1777023150
+road_manager.gd::GDScript::-1::1774344080::0::1::::<>Node3D<>::
+::res://world_marching_cubes/technical_documents/::1777023150
+01_system_architecture.md::TextFile::-1::1774344080::0::1::::<><>::
+02_optional_design_vision.md::TextFile::-1::1774344080::0::1::::<><>::
+03_optional_migration_roadmap.md::TextFile::-1::1774344080::0::1::::<><>::
+04_alternative_architectures.md::TextFile::-1::1774344080::0::1::::<><>::
+::res://world_prefabs/::1777023150
+new_prefab_1766060749.json::JSON::-1::1774344080::0::1::::<><>::
+new_wooden_house_2floor.json::JSON::-1::1774344080::0::1::::<><>::
+PREFAB_CONVENTIONS.md::TextFile::-1::1774344080::0::1::::<><>::
+PREFAB_FORMAT_RULES.md::TextFile::-1::1774344080::0::1::::<><>::
+todo_prefabs_placement_do_not_clear_the_inner_vegetation_from_prefab.txt::TextFile::-1::1774344080::0::1::::<><>::
+::res://world_prefabs/old_deprecated/::1777023150
+new_prefab_1766060749.json::JSON::-1::1774344080::0::1::::<><>::
+new_wooden_house_2floor.json::JSON::-1::1774344080::0::1::::<><>::
+::res://world_prefabs/old_deprecated/older format/::1777023150
+prefab_1766060749.json::JSON::-1::1774344080::0::1::::<><>::
+wooden_house_2floor.json::JSON::-1::1774344080::0::1::::<><>::
+::res://world_prefabs/old_deprecated/older format/old prefabs/::1777023150
+badwooden_house_2floor.json::JSON::-1::1774344080::0::1::::<><>::
+better_wooden_house_2floor.json::JSON::-1::1774344080::0::1::::<><>::
+corrected_better_wooden_house_2floor.json::JSON::-1::1774344080::0::1::::<><>::
+prefab_1766060302.json::JSON::-1::1774344080::0::1::::<><>::
+prefab_1766060607.json::JSON::-1::1774344080::0::1::::<><>::
+wooden_house_2floor - Copy.json::JSON::-1::1774344080::0::1::::<><>::
+wooden_house_2floor.json::JSON::-1::1774344080::0::1::::<><>::
+::res://world_vegetation/::1777023150
+vegetation_manager.gd::GDScript::-1::1774344080::0::1::::VegetationManager<>Node3D<>::
+::res://world_vehicles/::1777023150
+drivable_car.gd::GDScript::-1::1774344080::0::1::::<>VehicleBody3D<>::
+drivable_car.tscn::PackedScene::3842822890616700105::1774344080::0::1::::<><>::uid://7l1irinimxa::::res://addons/srcoder_simplecar/car.tscn<>uid://dydkfttprvoiy::::res://world_vehicles/drivable_car.gd<>uid://rjx8tx5y7j2p::::res://addons/srcoder_simplecar/follow_camera.tscn<>uid://50wfr03juc23::::res://world_vehicles/safe_follow_camera.gd<>uid://bej2jpmtw0x6t::::res://game/sound/vehicle/car/1/car-engine-start-44357.mp3<>uid://x45uqspvobtf::::res://game/sound/vehicle/car/1/car-idle-84718.mp3
+safe_follow_camera.gd::GDScript::-1::1774344080::0::1::::<>Node3D<>::
+vehicle_manager.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+::res://world_voxel_brush/::1777023150
+brush_registry.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+voxel_brush.gd::GDScript::-1::1774344080::0::1::::VoxelBrush<>Resource<>::
+voxel_brush_visuals.gd::GDScript::-1::1774344080::0::1::::<>Node<>::
+::res://world_voxel_brush/presets/::1777023150
+api_block.tres::Resource/VoxelBrush::-1::1774344080::0::1::::<><>::res://world_voxel_brush/voxel_brush.gd
+api_sphere.tres::Resource/VoxelBrush::8377036398068634::1774344080::0::1::::<><>::res://world_voxel_brush/voxel_brush.gd
+bucket.tres::Resource/VoxelBrush::-1::1774344080::0::1::::<><>::res://world_voxel_brush/voxel_brush.gd
+fist_punch.tres::Resource/VoxelBrush::-1::1774344080::0::1::::<><>::res://world_voxel_brush/voxel_brush.gd
+pickaxe_block.tres::Resource/VoxelBrush::8205915294186089854::1774344080::0::1::::<><>::res://world_voxel_brush/voxel_brush.gd
+pickaxe_classic.tres::Resource/VoxelBrush::421664488509181441::1774344080::0::1::::<><>::res://world_voxel_brush/voxel_brush.gd
+terraformer_dig.tres::Resource/VoxelBrush::970736315939099689::1774344080::0::1::::<><>::res://world_voxel_brush/voxel_brush.gd
+terraformer_place.tres::Resource/VoxelBrush::553396812473839557::1774344080::0::1::::<><>::res://world_voxel_brush/voxel_brush.gd
